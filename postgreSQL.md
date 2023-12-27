@@ -26,3 +26,8 @@ CREATE DATABASE NEW_DB_NAME;
 ```bash
 \c TARGET_DB_NAME
 ```
+
+### 离开
+```bash
+quit
+```
